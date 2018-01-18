@@ -1,10 +1,13 @@
-# *IMPORTANT*
+## *Important Notice*
 
-Please note that the Twilio Client Android SDK is superseded by the newer Twilio Programmable Voice 
-Android SDK, which uses FCM push notifications for signaling incoming calls. Please see our announcement 
-for background information on this change and consult the Programmable Voice SDK documentation for 
-technical details. In addition, please refer to [getting-started](https://www.twilio.com/docs/api/voice-sdk/android/getting-started) documentation and [voice-quickstart](https://github.com/twilio/voice-quickstart-android) application.
+**The Twilio Client SDKs for Android & iOS have been deprecated and replaced by [Twilio's new Programmable Voice SDK](https://www.twilio.com/docs/api/voice-sdk)**. The Programmable Voice SDK offers many improvements over the Twilio Client SDK, including greater stability, improved backgrounding, and built-in support for push notifications for incoming calls.
 
+Get started with the new Programmable Voice SDK by checking out one of the links below:
+* [Programmable Voice SDK for Android Quickstart](https://github.com/twilio/voice-quickstart-android)
+* [Programmable Voice SDK for iOS: Objective-C Quickstart](https://github.com/twilio/voice-quickstart-objc)
+* [Programmable Voice SDK for iOS: Swift Quickstart](https://github.com/twilio/voice-quickstart-swift)
+
+If you're just getting started with a Twilio mobile application for voice calling, we recommend you use the Programmable Voice SDK. If you're already using the Twilio Client SDK, you should plan to upgrade to the Programmable Voice SDK as soon as you're able.
 
 # Twilio Client for Android - Quickstart Application
 
