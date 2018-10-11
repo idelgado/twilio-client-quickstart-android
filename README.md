@@ -1,6 +1,6 @@
 ## Deprecation Notice
 
-**The Twilio Client SDKs for Android & iOS have been deprecated and superseded by the [Programmable Voice SDKs](https://www.twilio.com/docs/api/voice-sdk)**. The Programmable Voice SDK offers many improvements over the Twilio Client SDK, including greater stability, improved backgrounding, and built-in support for push notifications for incoming calls.
+**The Twilio Client SDKs for Android & iOS have been deprecated and superseded by the [Programmable Voice SDKs](https://www.twilio.com/docs/voice/voip-sdk)**. The Programmable Voice SDK offers many improvements over the Twilio Client SDK, including greater stability, improved backgrounding, and built-in support for push notifications for incoming calls.
 
 Get started with the Programmable Voice SDK by using one of the quickstart's below:
 
